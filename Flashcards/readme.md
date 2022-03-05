@@ -11,7 +11,6 @@ A flashcard app that show a question and switches to the answer of the question 
 
 <img src="https://imgur.com/a/nOQuvt6.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] Create New Project in Xcode
