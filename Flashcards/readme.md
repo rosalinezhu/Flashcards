@@ -9,7 +9,7 @@ A flashcard app that show a question and switches to the answer of the question 
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/nOQuvt6.gif" width=200><br>
+<img src="https://raw.githubusercontent.com/rosalinezhu/Flashcards/main/ezgif.com-gif-maker.gif" width=200><br>
 
 
 ## Required
