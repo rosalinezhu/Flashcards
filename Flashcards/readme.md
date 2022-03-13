@@ -6,7 +6,6 @@
 Allow user to create new flashcards as well as edit existing flash cards.
 
 ### App Walk-though
-Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://github.com/rosalinezhu/Flashcards/blob/master/codepathlab2GIF.gif" width=200><br>
 
